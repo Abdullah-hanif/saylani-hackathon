@@ -1,0 +1,26 @@
+                       /* profile */
+.profile{
+    border-radius: 50%;
+    border: 5px solid  grey;
+    width: 150px;
+    height: 150px;
+    
+ 
+}
+
+
+.main-div{
+position: relative;
+margin: 5% auto;
+width: 50em;
+height: 45em;
+background-image: linear-gradient(to right, rgb(236, 222, 222) , rgb(253, 253, 253));
+border-radius: 2px;
+box-shadow: 0 2px 4px rgba(223, 34, 20, 0.4);
+justify-content: space-between;
+}
+
+.child-div{
+    padding-left: 18em; 
+    justify-content: space-between;
+}
